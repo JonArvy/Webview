@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Webview</string>
+    <string name="str_hello"><b>Hello</b></string>
+    <string name="str_welcome_back"><b>Welcome Back</b></string>
+</resources>
